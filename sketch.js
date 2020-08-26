@@ -1,6 +1,6 @@
 
-var cols = 50;
-var rows = 50;
+var cols = 150;
+var rows = 150;
 var grid = new Array(cols);
 var openSet = [];
 var closedSet = [];
